@@ -1,1 +1,0 @@
-notepad++ is a free software
